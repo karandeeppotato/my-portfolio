@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* (Optional) v4 CSS-first config */
+@theme {
+  --font-sans: ui-sans-serif, system-ui, sans-serif;
+  --color-brand-500: oklch(0.65 0.18 260);
+}
